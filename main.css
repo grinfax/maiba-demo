@@ -3,7 +3,7 @@
 }
 
 nav {
-    margin: 50px 0 5px 0;
+    margin: 0px 0 5px 0;
 }
 
 .logo {
@@ -34,4 +34,33 @@ img {
 
 h1 {
     margin-bottom: 10px;
+}
+
+.border0 {
+    border-color: transparent;
+}
+
+.rank {
+    font-size: 14px; 
+    color: #666;
+}
+
+.card-text a {
+    font-size: 14px;
+    display: block;
+    margin-top: 20px;
+    padding: 5px 0px;
+    width: 50%;
+    margin: 20px auto 2px;
+    background: #fff;
+    color: #000;
+    text-decoration: none;
+    letter-spacing: 1px;
+    border: 1px solid #000;
+    border-top-right-radius: 10px;
+}
+
+.card-text a:hover {
+    background-color: #666;
+    color: #f47523;
 }
