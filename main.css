@@ -64,3 +64,24 @@ h1 {
     background-color: #666;
     color: #f47523;
 }
+
+.press a {
+    font-size: 20px;
+    color: #f47523;
+    text-decoration: none;
+}
+
+.press a:hover {
+    text-decoration: underline;
+}
+
+.date {
+    color: #666;
+    font-size: 14px;
+    margin: 0;
+}
+
+footer {
+    padding-top: 50px;
+    border-top: 1px solid #666;
+}
