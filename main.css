@@ -86,6 +86,7 @@ footer {
     border-top: 1px solid #666;
 }
 
+<<<<<<< Updated upstream
 h3 {
     font-size: 14px;
     color: #666;
@@ -97,3 +98,12 @@ img.mr-3 {
     float: left;
     margin-right: 15px;
 }
+=======
+.center {
+    text-align: center;
+      }
+
+.right {
+    text-align: right;
+    }
+>>>>>>> Stashed changes
